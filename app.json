@@ -1,0 +1,41 @@
+{
+  "id": "36283d81-b3a8-4566-9047-31e638c076fe",
+  "name": "China Tax Integeration",
+  "publisher": "Radius Technologies",
+  "version": "19.0.0.1",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "21fd023d-0259-4715-8d67-ae7f6cc75675",
+      "name": "CN Manfuacturing Plus",
+      "publisher": "Radius Technologies",
+      "version": "19.0.0.1"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "19.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50030
+    },
+    {
+      "from": 58000,
+      "to": 58035
+    }
+
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "8.0"
+}
